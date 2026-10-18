@@ -1,0 +1,10 @@
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+python-multipart>=0.0.9
+ollama>=0.3.0
+pdf2image>=1.17.0
+Pillow>=10.3.0
+reportlab>=4.2.0
+python-dotenv>=1.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
